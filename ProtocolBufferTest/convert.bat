@@ -1,0 +1,1 @@
+.\ProtoBuf\CodeGenerator.exe .\test.proto --output .\
